@@ -107,7 +107,7 @@
                <ul id="tables" class="iq-submenu collapse" data-parent="#iq-sidebar-toggle">
                   <li><a href="RegistrationDetails.aspx">Registration Details</a></li>
                   <li><a href="ContactEnquiries.aspx">Contact Enquiries</a></li>
-                  <li><a href="TablesEditable.aspx">Editable Table</a></li>
+                
                </ul>
             </li>
            

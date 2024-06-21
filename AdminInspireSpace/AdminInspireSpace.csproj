@@ -1226,7 +1226,6 @@
     <Content Include="Signup.aspx" />
     <Content Include="RegistrationDetails.aspx" />
     <Content Include="ContactEnquiries.aspx" />
-    <Content Include="TablesEditable.aspx" />
     <Content Include="Update-Contact.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -1273,13 +1272,6 @@
     </Compile>
     <Compile Include="ContactEnquiries.aspx.designer.cs">
       <DependentUpon>ContactEnquiries.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="TablesEditable.aspx.cs">
-      <DependentUpon>TablesEditable.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="TablesEditable.aspx.designer.cs">
-      <DependentUpon>TablesEditable.aspx</DependentUpon>
     </Compile>
     <Compile Include="Update-Contact.aspx.cs">
       <DependentUpon>Update-Contact.aspx</DependentUpon>
